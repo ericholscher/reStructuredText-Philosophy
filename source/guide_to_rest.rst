@@ -11,7 +11,7 @@ reST uses ``..`` as the means to call a function
     * So most of the time you want to get data into reST, 
       or make something happen, you use ``..``
 
-reST uses ``::`` in the main text to denote functions.
+reST uses ``::`` in the main text to to break function names from arguments.
     * This is done because comments are likely to have a : in them.
     * For example::
 
