@@ -35,5 +35,5 @@ This results in:
 Lesson
 ^^^^^^
 
-:ref:`rest-link-underscores`
+To learn more, see :ref:`rest-link-underscores`.
 
