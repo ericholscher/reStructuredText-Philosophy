@@ -24,8 +24,11 @@ reST uses ``::`` in the main text to to break function names from arguments.
         .. note:: This is a sweet note.
                   The whitespace here matters.
 
+.. _rest-link-underscores:
+
 reST links to things with ``_``
 -------------------------------
+
     * This means hyperlinks in the main body of text end in _
     * Single word hyperlinks can just be that::
         
