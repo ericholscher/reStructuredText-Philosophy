@@ -3,7 +3,7 @@ Guide to reST
 
 reST is white space sensitive.
     * Like python, a lot of the structure of the text comes from indention.
-    * A lot of things (like code blocks) require whitespace before and after.
+    * A lot of things (code blocks) require whitespace before and after.
 
 reST groups strings together with `````'s.
 
