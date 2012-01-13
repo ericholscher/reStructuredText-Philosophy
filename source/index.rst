@@ -8,8 +8,10 @@ Welcome to reStructuredText Cheatsheet's documentation!
 
 Contents:
 
-.. toctree::
-   :maxdepth: 2
+..  toctree::
+    :maxdepth: 2
+
+    *
 
 
 
