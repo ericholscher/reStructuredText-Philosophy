@@ -6,6 +6,7 @@ Hypyerlinks
 
 Single-word hyperlinks
 ~~~~~~~~~~~~~~~~~~~~~~
+::
     
     This is my paragraph, and this is the link to my code_.
 
@@ -19,6 +20,7 @@ This results in:
 
 Multi-word hyperlinks
 ~~~~~~~~~~~~~~~~~~~~~
+::
 
     This is my paragraph, and this is the `link to my code`_.
 
