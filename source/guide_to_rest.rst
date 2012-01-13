@@ -5,14 +5,14 @@ reST is white space sensitive.
     * Like python, a lot of the structure of the text comes from indention.
     * A lot of things (like code blocks) require whitespace before and after.
 
-reST groups strings together with `'s.
+reST groups strings together with `````'s.
 
 reST uses `..` as the means to call a function
     * So calling a 
 
 reST uses :: in the main text to denote functions.
     * This is done because comments are likely to have a : in them.
-    *ex::
+    * For example::
 
         .. note:: This is a sweet note.
                   The whitespace here matters.
@@ -24,7 +24,7 @@ reST links to things with _
         
         Look at the Python_ source.
 
-    * Multiple word hyperlinks must be joined with `'s::
+    * Multiple word hyperlinks must be joined with `````'s::
 
         Look in the `Django Documentation`_.
     
