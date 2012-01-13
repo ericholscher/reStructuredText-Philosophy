@@ -7,18 +7,17 @@ reST is white space sensitive.
 
 reST groups strings together with `````'s.
 
-reST uses `..` as the means to call a function
+reST uses ``..`` as the means to call a function
     * So calling a 
 
-reST uses :: in the main text to denote functions.
+reST uses ``::`` in the main text to denote functions.
     * This is done because comments are likely to have a : in them.
     * For example::
 
         .. note:: This is a sweet note.
                   The whitespace here matters.
 
-
-reST links to things with _
+reST links to things with ``_``
     * This means hyperlinks in the main body of text end in _
     * Single word hyperlinks can just be that::
         
