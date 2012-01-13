@@ -32,3 +32,8 @@ This results in:
 
     .. _link to my code: https://github.com/ericholscher/reStructuredText-Philosophy
 
+Lesson
+^^^^^^
+
+:ref:`rest-link-underscores`
+

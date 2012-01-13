@@ -2,16 +2,22 @@ Guide to reST
 =============
 
 reST is white space sensitive.
+------------------------------
+
     * Like python, a lot of the structure of the text comes from indention.
     * A lot of things (code blocks) require whitespace before and after.
 
 reST groups strings together with `````'s.
+------------------------------------------
 
 reST uses ``..`` as the means to call a function
+-------------------------------------------------
+
     * So most of the time you want to get data into reST, 
       or make something happen, you use ``..``
 
 reST uses ``::`` in the main text to to break function names from arguments.
+----------------------------------------------------------------------------
     * This is done because comments are likely to have a : in them.
     * For example::
 
@@ -19,6 +25,7 @@ reST uses ``::`` in the main text to to break function names from arguments.
                   The whitespace here matters.
 
 reST links to things with ``_``
+-------------------------------
     * This means hyperlinks in the main body of text end in _
     * Single word hyperlinks can just be that::
         
