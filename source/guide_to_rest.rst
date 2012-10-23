@@ -24,6 +24,15 @@ reST uses ``::`` in the main text to to break function names from arguments.
         .. note:: This is a sweet note.
                   The whitespace here matters.
 
+reST uses ``:<ref>:```` to reference things
+----------------------------------------------------------------------------
+    * This allows you to link to other parts of your document, and even other sphinx projects with :ref:`.
+    * For example::
+        
+        You might look at the :doc:`getting-started` document for more information.
+        You can call :func:`get_all_objects` to get all of the objects.
+
+
 .. _rest-link-underscores:
 
 reST links to things with ``_``
