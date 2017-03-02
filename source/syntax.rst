@@ -1,7 +1,7 @@
 Basic reST Syntax
 =================
 
-Hypyerlinks
+Hyperlinks
 -----------
 
 Single-word hyperlinks
